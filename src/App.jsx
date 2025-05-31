@@ -105,14 +105,6 @@ function App() {
 		<div className='flex flex-col items-center relative  min-h-screen  pb-4 mx-auto w-full lg:max-w-7xl'>
 			<IdiomaProvider>
 				<BrowserRouter>
-					{/* <a
-						href='https://wa.me/56923935961'
-						target='_blank'
-						className='fixed bottom-2 right-2 z-40 '
-					>
-						<img src={whatsapp} alt='Whatsapp icon' />
-					</a> */}
-
 					{/* Chat Flotante */}
 					<div className='fixed bottom-4 right-4 z-50'>
 						{/* Botón de chat */}
