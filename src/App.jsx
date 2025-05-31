@@ -105,7 +105,6 @@ function App() {
 		<div className='flex flex-col items-center relative  min-h-screen  pb-4 mx-auto w-full lg:max-w-7xl'>
 			<IdiomaProvider>
 				<BrowserRouter>
-					{/* Chat Flotante */}
 					<div className='fixed bottom-4 right-4 z-50'>
 						{/* Botón de chat */}
 						<button
